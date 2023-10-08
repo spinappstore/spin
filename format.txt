@@ -1,0 +1,5 @@
+{
+  app_name: "Application name goes here",
+  app_description: "Application description goes here",
+  installer_download_url: "Application installer URL goes here",
+}
